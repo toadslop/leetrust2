@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "deserialize",
+    "lowest_common_ancestor",
+    "robber",
+    "min_stairs_cost"
+]
